@@ -5,7 +5,7 @@ The first thing we noticed is how imbalanced the data is - over 93% of the entri
 Submitted by:
 Tomer Shahar and Nevo Itzhak
 
-## Exercise 3 - Requirements
+## Machine Learning - Assignment 3 - Requirements
 In this exercise, you are given (a part of) a data set from a clinical trial. You will need to use 3 types of prediction models and compare between.
 The first model should be a linear classifier.
 The second one should be an ensemble model.
