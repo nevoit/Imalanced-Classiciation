@@ -2,11 +2,9 @@
 In this assignment we are given a dataset of clinical trials. We must predict if the patient died or had a cardiovascular event.
 The first thing we noticed is how imbalanced the data is - over 93% of the entries are classified as 'False'.
 
-
 ## Authors
 * **Tomer Shahar** - [Tomer Shahar](https://github.com/Tomer-Shahar)
 * **Nevo Itzhak** - [Nevo Itzhak](https://github.com/nevoit)
-
 
 ## Machine Learning - Assignment 3 - Requirements
 In this exercise, you are given (a part of) a data set from a clinical trial. You will need to use 3 types of prediction models and compare between.
